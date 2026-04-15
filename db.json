@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "service": "Google",
+      "login": "mymail@gmail.com",
+      "password": "supersecretpassword123"
+    },
+    {
+      "id": "2",
+      "service": "Госуслуги",
+      "login": "123-456-789 00",
+      "password": "gosuslugi_pass"
+    },
+    {
+      "service": "МАХ",
+      "login": "NuckFiggers",
+      "password": "123",
+      "id": "hKEfWJadhro"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
